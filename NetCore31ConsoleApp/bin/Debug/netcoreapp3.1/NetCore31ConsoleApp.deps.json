@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v3.1": {
       "NetCore31ConsoleApp/1.0.0": {
+        "dependencies": {
+          "FutureLibrary": "1.0.0"
+        },
         "runtime": {
           "NetCore31ConsoleApp.dll": {}
+        }
+      },
+      "FutureLibrary/1.0.0": {
+        "runtime": {
+          "FutureLibrary.dll": {}
         }
       }
     }
   },
   "libraries": {
     "NetCore31ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FutureLibrary/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

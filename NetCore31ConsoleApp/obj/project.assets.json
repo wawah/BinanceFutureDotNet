@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Project\\binanceFuture\\FutureLibrary\\BinanceConsoleApp\\NetCore31ConsoleApp.csproj",
+      "projectUniqueName": "E:\\Project\\binanceFuture\\FutureLibrary\\NetCore31ConsoleApp\\NetCore31ConsoleApp.csproj",
       "projectName": "NetCore31ConsoleApp",
-      "projectPath": "E:\\Project\\binanceFuture\\FutureLibrary\\BinanceConsoleApp\\NetCore31ConsoleApp.csproj",
+      "projectPath": "E:\\Project\\binanceFuture\\FutureLibrary\\NetCore31ConsoleApp\\NetCore31ConsoleApp.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "E:\\Project\\binanceFuture\\FutureLibrary\\BinanceConsoleApp\\obj\\",
+      "outputPath": "E:\\Project\\binanceFuture\\FutureLibrary\\NetCore31ConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

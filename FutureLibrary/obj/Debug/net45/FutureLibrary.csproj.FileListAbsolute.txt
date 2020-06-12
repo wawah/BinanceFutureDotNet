@@ -4,3 +4,4 @@ E:\Project\binanceFuture\FutureLibrary\FutureLibrary\obj\Debug\net45\FutureLibra
 E:\Project\binanceFuture\FutureLibrary\FutureLibrary\obj\Debug\net45\FutureLibrary.AssemblyInfo.cs
 E:\Project\binanceFuture\FutureLibrary\FutureLibrary\obj\Debug\net45\FutureLibrary.dll
 E:\Project\binanceFuture\FutureLibrary\FutureLibrary\obj\Debug\net45\FutureLibrary.pdb
+E:\Project\binanceFuture\FutureLibrary\FutureLibrary\obj\Debug\net45\FutureLibrary.csprojAssemblyReference.cache
