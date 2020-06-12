@@ -10,14 +10,14 @@ using System.IO;
 
 namespace FutureLibrary.Rest
 {
-    public class BinanceFuture
+    public class BinanceFRest
     {
-        public BinanceFuture()
+        public BinanceFRest()
         {
 
         }
 
-        public BinanceFuture(string key, string secrect)
+        public BinanceFRest(string key, string secrect)
         {
             this.BA_KEY = key;
             this.BA_SECRECT = secrect;

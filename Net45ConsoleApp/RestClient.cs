@@ -7,13 +7,13 @@ using FutureLibrary.Rest;
 
 namespace Net45ConsoleApp
 {
-    public class Startup
+    public class RestClient
     {
-        public Startup()
+        public RestClient()
         {
             string key = "";
             string secret_key = "";
-            var BAFrest = new BinanceFuture(key, secret_key);
+            var BAFrest = new BinanceFRest(key, secret_key);
             var _bacst = BAFrest.GetServerTime();
             var _bacping = BAFrest.Ping();
             var _bacpairsinfo = BAFrest.GetPairsInfo();

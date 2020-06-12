@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace Net45ConsoleApp
 {
-    class Program
+    class WebsocketClient
     {
-        static void Main(string[] args)
-        {
-            var startup = new RestClient();
-        }
     }
 }
