@@ -1,0 +1,8 @@
+E:\Project\binanceFuture\FutureLibrary\FutureLibrary\bin\Debug\netcoreapp3.1\FutureLibrary.deps.json
+E:\Project\binanceFuture\FutureLibrary\FutureLibrary\bin\Debug\netcoreapp3.1\FutureLibrary.dll
+E:\Project\binanceFuture\FutureLibrary\FutureLibrary\bin\Debug\netcoreapp3.1\FutureLibrary.pdb
+E:\Project\binanceFuture\FutureLibrary\FutureLibrary\obj\Debug\netcoreapp3.1\FutureLibrary.csprojAssemblyReference.cache
+E:\Project\binanceFuture\FutureLibrary\FutureLibrary\obj\Debug\netcoreapp3.1\FutureLibrary.AssemblyInfoInputs.cache
+E:\Project\binanceFuture\FutureLibrary\FutureLibrary\obj\Debug\netcoreapp3.1\FutureLibrary.AssemblyInfo.cs
+E:\Project\binanceFuture\FutureLibrary\FutureLibrary\obj\Debug\netcoreapp3.1\FutureLibrary.dll
+E:\Project\binanceFuture\FutureLibrary\FutureLibrary\obj\Debug\netcoreapp3.1\FutureLibrary.pdb

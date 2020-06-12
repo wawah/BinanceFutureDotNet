@@ -1,0 +1,9 @@
+E:\Project\binanceFuture\FutureLibrary\Net45ConsoleApp\bin\Debug\Net45ConsoleApp.exe.config
+E:\Project\binanceFuture\FutureLibrary\Net45ConsoleApp\bin\Debug\Net45ConsoleApp.exe
+E:\Project\binanceFuture\FutureLibrary\Net45ConsoleApp\bin\Debug\Net45ConsoleApp.pdb
+E:\Project\binanceFuture\FutureLibrary\Net45ConsoleApp\bin\Debug\FutureLibrary.dll
+E:\Project\binanceFuture\FutureLibrary\Net45ConsoleApp\bin\Debug\FutureLibrary.pdb
+E:\Project\binanceFuture\FutureLibrary\Net45ConsoleApp\obj\Debug\Net45ConsoleApp.csprojAssemblyReference.cache
+E:\Project\binanceFuture\FutureLibrary\Net45ConsoleApp\obj\Debug\Net45ConsoleApp.csproj.CopyComplete
+E:\Project\binanceFuture\FutureLibrary\Net45ConsoleApp\obj\Debug\Net45ConsoleApp.exe
+E:\Project\binanceFuture\FutureLibrary\Net45ConsoleApp\obj\Debug\Net45ConsoleApp.pdb

@@ -1,0 +1,6 @@
+E:\Project\binanceFuture\FutureLibrary\FutureLibrary\bin\Debug\net45\FutureLibrary.dll
+E:\Project\binanceFuture\FutureLibrary\FutureLibrary\bin\Debug\net45\FutureLibrary.pdb
+E:\Project\binanceFuture\FutureLibrary\FutureLibrary\obj\Debug\net45\FutureLibrary.AssemblyInfoInputs.cache
+E:\Project\binanceFuture\FutureLibrary\FutureLibrary\obj\Debug\net45\FutureLibrary.AssemblyInfo.cs
+E:\Project\binanceFuture\FutureLibrary\FutureLibrary\obj\Debug\net45\FutureLibrary.dll
+E:\Project\binanceFuture\FutureLibrary\FutureLibrary\obj\Debug\net45\FutureLibrary.pdb
